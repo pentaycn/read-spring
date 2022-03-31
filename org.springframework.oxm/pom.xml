@@ -6,7 +6,7 @@
 	<groupId>org.springframework</groupId>
 	<artifactId>spring-oxm</artifactId>
 	<packaging>jar</packaging>
-	<version>3.0.8.BUILD-SNAPSHOT</version>
+	<version>5.3.18</version>
 	<parent>
 		<groupId>org.springframework</groupId>
 		<artifactId>spring-parent</artifactId>
