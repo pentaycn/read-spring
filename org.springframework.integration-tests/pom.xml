@@ -391,7 +391,7 @@
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-core</artifactId>
-      <version>latest.integration</version>
+      <version>5.3.19</version>
       <scope>test</scope>
     </dependency>
     <dependency>
