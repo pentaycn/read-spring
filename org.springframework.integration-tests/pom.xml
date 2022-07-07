@@ -427,7 +427,7 @@
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-web</artifactId>
-      <version>latest.integration</version>
+      <version>3.2.5.RELEASE</version>
       <scope>test</scope>
     </dependency>
     <dependency>
